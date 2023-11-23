@@ -1,0 +1,123 @@
+export const User = [
+  {
+    id: 1,
+    name: {
+      firstname: "JAY",
+      lastname: "JO",
+    },
+    course: "BSCS",
+    yearsection: "3C",
+    username: "JAY47",
+    password: "4777",
+    usertype: "STUDENT",
+  },
+  {
+    id: 2,
+    name: {
+      firstname: "GRAY",
+      lastname: "YEON",
+    },
+    course: "BSIT-FPSM",
+    yearsection: "3E",
+    username: "GRAY89",
+    password: "3000",
+    usertype: "STUDENT",
+  },
+  {
+    id: 3,
+    name: {
+      firstname: "STEPHEN",
+      lastname: "CURRY",
+    },
+    course: "BS-CRIM",
+    yearsection: "3B",
+    username: "CHEFCURRY",
+    password: "7878",
+    usertype: "STUDENT",
+  },
+  {
+    id: 4,
+    name: {
+      firstname: "KYRIE ",
+      lastname: "IRVING",
+    },
+    course: "BSIT",
+    yearsection: "3B",
+    username: "KYRIE11",
+    password: "1432",
+    usertype: "STUDENT",
+  },
+  {
+    id: 5,
+    name: {
+      firstname: "LEBRON",
+      lastname: "JAMES",
+    },
+    course: "BSIT",
+    yearsection: "3B",
+    username: "KING",
+    password: "23623",
+    usertype: "STUDENT",
+  },
+  {
+    id: 6,
+    name: {
+      firstname: "CHET",
+      lastname: "HOLMGREN",
+    },
+    course: "BSIT",
+    yearsection: "3B",
+    username: "7FOOTER",
+    password: "7111",
+    usertype: "STUDENT",
+  },
+  {
+    id: 7,
+    name: {
+      firstname: "KLAY",
+      lastname: "THOMPSON",
+    },
+    course: "",
+    yearsection: "",
+    username: "SPOTUP",
+    password: "1111",
+    usertype: "TEACHER",
+  },
+  {
+    id: 8,
+    name: {
+      firstname: "LUKA",
+      lastname: "DONCIC",
+    },
+    course: "",
+    yearsection: "",
+    username: "DONCIC",
+    password: "7777",
+    usertype: "TEACHER",
+  },
+  {
+    id: 9,
+    name: {
+      firstname: "FERMO",
+      lastname: "ASUFRA",
+    },
+    course: "",
+    yearsection: "",
+    username: "FERMO",
+    password: "1213",
+    usertype: "TEACHER",
+  },
+  {
+    id: 10,
+    name: {
+      firstname: "CATHERINE",
+      lastname: "GABO",
+    },
+    course: "",
+    yearsection: "",
+    username: "CAT",
+    password: "1344",
+    usertype: "TEACHER",
+  },
+  
+];
